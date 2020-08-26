@@ -1,4 +1,4 @@
-# Доклады Фанбокса
+<p align="center"><img src="logo@2x.png" width="400"></p>
 
 ## 2020
 
