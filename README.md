@@ -11,6 +11,18 @@
   Про выбор языка, железа, протокола для сообщений. И про реализацию веб-интерфейса, уведомлений и метрик.
 
 
+### Митап на карантине, 17 июня
+
+- **[Чем SRE в FunBox занимаются](/meetups/2020-06-17-quarantine/01-sre/)**, Алексей Мокров<br>
+  Про SRE в компании. 
+
+- **[Менеджмент Data Science проектов](/meetups/2020-06-17-quarantine/02-crisp-dm/)**, Сергей Зотов<br>
+  Про проблемы в ведении ML/Data Science проектов с помощью воркфлоу, основанного на CRISP-DM.
+
+- **[Оптимизация типов данных в ClickHouse](/meetups/2020-06-17-quarantine/03-clickhouse-data-types-optimization/)**, Иван Левеев<br>
+  Про тернистый путь к текущей схеме БД и опыт оптимизации типов данных в ClickHouse.
+
+
 ### DINS DevOps Evening, 26 февраля
 
 - **[Как мы собираем логи Nginx в ClickHouse](/meetups/2020-05-26-dins-devops-evening/01-nginx-logging-with-clickhouse/)**, Глеб Гончаров<br>
