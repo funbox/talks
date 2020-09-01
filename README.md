@@ -8,7 +8,9 @@
   Про структуру документации, приоритизацию аналитических задач, важность нейминга фич и их проработки, согласование документации с заказчиком и командой.
 
 
-### Elixir Meetup, 19 августа
+### FunBox Elixir Meetup, 19 августа
+
+**[Плейлист митапа](https://www.youtube.com/playlist?list=PLJ7kxG-M2-mOWPfLPvFQlGYplSBq1BprZ)**
 
 - **[Mixing Clean Architecture](/meetups/2020-08-19-elixir/01-mixing-clean-architecture/)**, Мирослав Малкин<br>
   Про архитектуру (компоненты, принципы, метрики), интерфейсы и инверсию зависимостей.
