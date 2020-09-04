@@ -37,7 +37,7 @@
   Про тернистый путь к текущей схеме БД и опыт оптимизации типов данных в ClickHouse.
 
 
-### DINS DevOps Evening, 26 февраля
+### DINS DevOps Evening, 26 мая
 
 - **[Как мы собираем логи Nginx в ClickHouse](/meetups/2020-05-26-dins-devops-evening/01-nginx-logging-with-clickhouse/)**, Глеб Гончаров<br>
   Про опыт агрегации и обработки логов Nginx в инфраструктуре компании и хранение метрик в ClickHouse.
