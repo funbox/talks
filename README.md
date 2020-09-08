@@ -2,7 +2,7 @@
 
 ## 2020
 
-### Frontend Meetup, 3 сентября
+### FunBox Frontend Meetup, 3 сентября
 
 - **[Svelte. Лёгкий — не значит быстрый](/meetups/2020-09-03-frontend-meetup/01-svelte/)**, Евгений Пономарёв<br>
   Про сравнение Svelte и React при разработке тестового проекта.
