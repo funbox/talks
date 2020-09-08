@@ -4,19 +4,19 @@
 
 ### FunBox Frontend Meetup, 3 сентября
 
-- **[Svelte. Лёгкий — не значит быстрый](/meetups/2020-09-03-frontend-meetup/01-svelte/)**, Евгений Пономарёв<br>
+- **[Svelte. Лёгкий — не значит быстрый](/meetups/2020-09-03-frontend/01-svelte/)**, Евгений Пономарёв<br>
   Про сравнение Svelte и React при разработке тестового проекта.
 
-- **[Интересные решения в webpack](/meetups/2020-09-03-frontend-meetup/02-webpack/)**, Егор Баранов<br>
+- **[Интересные решения в webpack](/meetups/2020-09-03-frontend/02-webpack/)**, Егор Баранов<br>
   Про экосистему вокруг webpack.
 
-- **[Создаём реалистичную 3D графику в браузере](/meetups/2020-09-03-frontend-meetup/03-3d-graphics/)**, Ирина Романова<br>
+- **[Создаём реалистичную 3D графику в браузере](/meetups/2020-09-03-frontend/03-3d-graphics/)**, Ирина Романова<br>
   Про 2D/3D графику в браузере с Three.js и Cannon.js.
 
-- **[Знакомство с CSS Grid](/meetups/2020-09-03-frontend-meetup/04-css-grid/)**, Галина Григорьева<br>
+- **[Знакомство с CSS Grid](/meetups/2020-09-03-frontend/04-css-grid/)**, Галина Григорьева<br>
   Про технологию CSS Grid и сравнение с Flex.
 
-- **[Legacy. Иллюзия контроля](/meetups/2020-09-03-frontend-meetup/05-legacy/)**, Заурбек Будтуев<br>
+- **[Legacy. Иллюзия контроля](/meetups/2020-09-03-frontend/05-legacy/)**, Заурбек Будтуев<br>
   Про легаси в контексте тестов, требований, документации и кода.
 
 
