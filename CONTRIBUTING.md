@@ -25,9 +25,20 @@ Eсли вам нужно добавить, изменить или удалит
 
 2. Скачать и установить версию Git LFS для своей ОС.
 
-3. В папке с репозиторием выполнить `git lfs install`. Если не появилось никаких ошибок, значит всё прошло успешно.
+3. В консоли выполнить `git lfs install`. 
+   
+4. Склонировать этот репозиторий.
 
-Репозиторий уже настроен таким образом, что все PDF-файлы будут автоматически загружаться в LFS.
+5. Проверить, что хуки для LFS в репозитории автоматически установились:
+
+```sh
+$ cat .git/hooks/post-commit
+#!/bin/sh
+command -v git-lfs >/dev/null 2>&1 || { echo >&2 "\nThis repository is configured for Git LFS but 'git-lfs' was not found on your path. If you no longer wish to use Git LFS, remove this hook by deleting .git/hooks/post-commit.\n"; exit 2; }
+git lfs post-commit "$@"
+```
+
+Если всё прошло успешно, то все PDF-файлы будут автоматически загружаться в LFS.
 
 ## Файловая структура
 
