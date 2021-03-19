@@ -2,6 +2,12 @@
 
 ## 2021
 
+## Внутренний митап, 10 марта
+
+- **[OpenID Connect. Теория](/meetups/2021-03-10-mixed/01-openid-connect-theory)**, Никита Бабушкин<br>
+  Про принципы работы OAuth и OpenID Connect.
+
+
 ### Android Meetup, 25 февраля
 
 - **[Android vs iOS vs Flutter](/meetups/2021-02-25-android/01-flutter)**, Константин Горничнов<br>
