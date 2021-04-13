@@ -7,6 +7,9 @@
 - **[OpenID Connect. Теория](/meetups/2021-03-10-mixed/01-openid-connect-theory)**, Никита Бабушкин<br>
   Про принципы работы OAuth и OpenID Connect.
 
+- **[OpenID Connect. Технология MobileConnect](/meetups/2021-03-10-mixed/02-openid-connect-mobileconnect)**, Антон Кирсанов<br>
+  Про принципы пользовательской авторизации по протоколу Mobile Connect.
+
 
 ### Android Meetup, 25 февраля
 
